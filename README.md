@@ -88,7 +88,7 @@ Before you get started, please take a few minutes and get acquainted with this a
 ```js
 <Route exact path="/" component={Products} />
 ```
-
+      
 - After refactoring you'll notice a few errors... Don't worry we'll clean those up shortly!
 
 **STEP 4 - Consuming data with ProductContext**
